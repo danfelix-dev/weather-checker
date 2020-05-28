@@ -1,0 +1,11 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ListPreference
+        app:defaultValue="metric"
+        app:entries="@array/temp_unit"
+        app:entryValues="@array/temp_unit_values"
+        app:key="SP_TEMP_UNIT"
+        app:title="@string/preference_temperature_unit"
+        app:useSimpleSummaryProvider="true" />
+
+</PreferenceScreen>

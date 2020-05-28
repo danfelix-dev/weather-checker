@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Weather Checker</string>
+    <string name="app_name_short">Checker</string>
+
+    <string name="search_insert_city">Insert a city…</string>
+    <string name="search_recent">Recent</string>
+
+    <string name="detail_title">%s, %s</string>
+    <string name="detail_temperature">%.0f°</string>
+    <string name="separator_min_max_temperature">·</string>
+    <string name="detail_humidity">%d%%</string>
+    <string name="detail_pressure">%.0f hpa</string>
+    <string name="content_error">Whoops! There was an error loading this content. Please, try again later.</string>
+
+    <string name="settings">Settings</string>
+    <string name="preference_temperature_unit">Temperature Unit</string>
+</resources>
