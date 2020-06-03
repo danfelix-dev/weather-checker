@@ -10,9 +10,9 @@ In case you want to try Weather Checker out of the box, you can download the lat
 ## Running the project
 
 ### Prerequisites
-- [The Maps SDK For Android 3.0](https://developers.google.com/maps/documentation/android-sdk/v3-client-migration)
-- [A valid Maps API key](https://developers.google.com/maps/documentation/android-sdk/get-api-key#get-the-api-key)
-- [A valid OpenWeather API key](https://openweathermap.org/appid)
+- [The Maps SDK For Android 3.0](https://developers.google.com/maps/documentation/android-sdk/v3-client-migration).
+- [A valid Maps API key](https://developers.google.com/maps/documentation/android-sdk/get-api-key#get-the-api-key).
+- [A valid OpenWeather API key](https://openweathermap.org/appid).
 
 ### Putting everything in place
 1. Either clone or download the repository.
@@ -24,12 +24,12 @@ In case you want to try Weather Checker out of the box, you can download the lat
 ## How to use it
 
 ### Getting a city's forecast
-1. Start by typing the city's name on the search bar
-2. When you find the city corresponding to its country code, click it
-3. The city's forecast will be downloaded and shown on the screen
+1. Start by typing the city's name on the search bar.
+2. When you find the city corresponding to its country code, click it.
+3. The city's forecast will be downloaded and shown on the screen.
 
 ## Features
-- Material Day/Night support
+- Material Day/Night support.
 - History section for previously queried cities.
 - Settings section where you can select the unit used to show the temperature (K, °C, °F).
 - Portrait/landscape support for the forecast detail.
