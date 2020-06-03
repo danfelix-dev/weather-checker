@@ -2,6 +2,8 @@
 # Weather Checker
 Weather Checker is basic application made in Kotlin for Android whose objective is to check the current forecast for any city in the world.
 
+   ![The forecast view.](https://github.com/danfelix-dev/weather-checker/blob/master/screenshots/forecast-portrait.png?raw=true)
+
 ## Try it out!
 In case you want to try Weather Checker out of the box, you can download the latest apk from [Firebase's App Distribution](https://appdistribution.firebase.dev/i/zDeoqfCn).  If, instead, you want to compile the project yourself, keep reading.
 
